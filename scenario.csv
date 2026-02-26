@@ -1,4 +1,14 @@
+big_buck_bunny_1080p_h264.mov,alternate_fast_backward_forward
 big_buck_bunny_1080p_h264.mov,change_state_intensive
+big_buck_bunny_1080p_h264.mov,fast_backward.scenario
 big_buck_bunny_1080p_h264.mov,fast_forward
 big_buck_bunny_1080p_h264.mov,pause_resume
+big_buck_bunny_1080p_h264.mov,play_15s
+big_buck_bunny_1080p_h264.mov,reverse_playback
+big_buck_bunny_1080p_h264.mov,seek_backward
+big_buck_bunny_1080p_h264.mov,seek_forward
+big_buck_bunny_1080p_h264.mov,seek_forward_backward
+big_buck_bunny_1080p_h264.mov,seek_with_stop
+big_buck_bunny_1080p_h264.mov,simple_seeks
 multi-track.mp4,switch_audio_track
+multi-track.mp4,switch_audio_track_while_paused
